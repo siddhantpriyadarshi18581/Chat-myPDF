@@ -84,12 +84,6 @@ streamlit run app.py
 - 🎙️ **Voice Input** – Allow users to speak queries.
 - 🌍 **Multi-Language Support** – Process and answer questions in various languages.
 
-## 🤝 Contributing
-Want to improve Research-GPT? Feel free to fork the repository and submit pull requests! 🚀
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
-💡 _Built with ❤️ by [Your Name]_
+💡 _Built with ❤️ by Siddhant Priyadarshi_
 
